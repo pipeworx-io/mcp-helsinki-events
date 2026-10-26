@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-helsinki-events",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Helsinki Events MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-a1db9e23ca47b0ed6c3e121c42ad4d61434c2f47630f5dec926ad11348174ee5",
-    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
+    "sourceHash": "v1-5dd2a4adefda99ef1016bfa9b853621fb0927ff167653a1cee2b9d196ebbb347",
+    "sourceCommit": "24e32b525f9c0b2fd7d94b519b08abb108cc11cd"
   }
 }
