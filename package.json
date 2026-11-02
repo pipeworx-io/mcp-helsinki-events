@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-helsinki-events",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Helsinki Events MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "helsinki-events",
     "gatewaySlug": "helsinki-events",
-    "sourceHash": "v1-f44818ae7fed37fb09816a5241b0520c4eaa2e2b86a646809567cecaeb383159",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-9e9481eec10496754536aef3ce47bd535e5eed073d0593c325e72c97568b6b40",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
